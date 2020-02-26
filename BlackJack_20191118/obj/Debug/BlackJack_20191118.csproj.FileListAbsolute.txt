@@ -1,0 +1,9 @@
+D:\C#\BlackJack_20191118\BlackJack_20191118\bin\Debug\BlackJack_20191118.exe.config
+D:\C#\BlackJack_20191118\BlackJack_20191118\bin\Debug\BlackJack_20191118.exe
+D:\C#\BlackJack_20191118\BlackJack_20191118\bin\Debug\BlackJack_20191118.pdb
+D:\C#\BlackJack_20191118\BlackJack_20191118\obj\Debug\BlackJack_20191118.Form1.resources
+D:\C#\BlackJack_20191118\BlackJack_20191118\obj\Debug\BlackJack_20191118.Properties.Resources.resources
+D:\C#\BlackJack_20191118\BlackJack_20191118\obj\Debug\BlackJack_20191118.csproj.GenerateResource.cache
+D:\C#\BlackJack_20191118\BlackJack_20191118\obj\Debug\BlackJack_20191118.exe
+D:\C#\BlackJack_20191118\BlackJack_20191118\obj\Debug\BlackJack_20191118.pdb
+D:\C#\BlackJack_20191118\BlackJack_20191118\obj\Debug\BlackJack_20191118.csprojAssemblyReference.cache
